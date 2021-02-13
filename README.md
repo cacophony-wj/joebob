@@ -35,4 +35,4 @@ Like collecting stuff like in LOTD, but don't wanna, you know, make a whole _thi
 
 Can't peep the location? Check it.
 
-https://github.com/cacophony-wj/joebob/raw/master/chambers.png
+https://github.com/cacophony-wj/joebob/raw/main/chambers.png
