@@ -6,6 +6,7 @@
     - [The Most Massive Favorites Menu You Will Ever See](#the-most-massive-favorites-menu-you-will-ever-see)
     - [Assigned Storage](#assigned-storage)
     - [The Chambers](#the-chambers)
+  - [So Where Do I Download This Thing?](#so-where-do-i-download-this-thing)
 
 A friend of mine spent months digging through webforums and the Nexus when he started modding, compiling a massive, 300-strong list of all the mods he wanted to try. He did this back before Special Edition came out, then sat on it for years. He made a few stabs at putting a list together himself, and although he had made his own kickass player home entirely from scratch in The Pale (which is dutifully included in this list), he lacked the patience for the spreadsheet-like work of xEdit. Not to mention he has a life, and no time for patching hundreds of mods! So this is where trusty, indolent, slightly-mad cacophony comes in. We... came to an agreement.
 
@@ -37,6 +38,6 @@ Can't peep the location? Check it.
 
 https://github.com/cacophony-wj/LeS/raw/master/chambers.png
 
-### So where do I download this thing?
+## So where do I download this thing?
 
 Presently you can get Joe Bob The Modlist [here](https://drive.google.com/file/d/18XlmOn7CnNtap31U1V3kmhg37xpVU2_9/view?usp=sharing)
