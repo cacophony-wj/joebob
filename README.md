@@ -36,3 +36,7 @@ Like collecting stuff like in LOTD, but don't wanna, you know, make a whole _thi
 Can't peep the location? Check it.
 
 https://github.com/cacophony-wj/LeS/raw/master/chambers.png
+
+### So where do I download this thing?
+
+Presently you can get Joe Bob The Modlist [here](https://drive.google.com/file/d/18XlmOn7CnNtap31U1V3kmhg37xpVU2_9/view?usp=sharing)
